@@ -1,0 +1,18 @@
+# Wort/Phrase -> Gewicht. Kleingeschrieben, Teilstring-Match.
+de:
+  scream: [aaah, ahhh, neiiin, nein nein, was zur hölle, alter, digga, junge junge, ach du scheiße, oh mein gott]
+  laugh: [haha, hahaha, ich kann nicht mehr, ich sterbe, lachflash]
+  rage: [verdammt, scheiße, fick, hurensohn, ich raste aus, ist das dein ernst, so ein müll, deinstallieren]
+  shock: [krass, was, wie bitte, unmöglich, niemals, ich glaub's nicht, wtf]
+  drama: [streit, beef, ehrlich gesagt, das war's, ich hör auf, gebannt, unfair, lügner]
+  win: [gewonnen, sieg, let's go, lets go, geschafft, endlich, clutch, ace]
+  fail: [verloren, gestorben, tot, fail, verkackt, peinlich, oh nein]
+emotes: [kekw, lul, lol, omegalul, pog, pogchamp, poggers, monkas, pepega, w, l, "+2", "??", "!!", lmao, lmfao, xd, sadge, copium, aware, icant, cinema, "o7"]
+en:
+  scream: [aaah, ahhh, no no no, oh my god, what the hell, bro, dude]
+  laugh: [haha, hahaha, i can't, i'm dying, crying]
+  rage: [fuck, shit, damn, are you serious, trash, i'm done, uninstall]
+  shock: [what, no way, insane, impossible, wtf, holy, bro what]
+  drama: [beef, honestly, banned, unfair, liar, i quit, exposed]
+  win: [we won, let's go, lets go, clutch, finally, ace, gg]
+  fail: [lost, dead, died, fail, embarrassing, oh no, throw]

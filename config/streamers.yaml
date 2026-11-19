@@ -1,0 +1,24 @@
+# platform: twitch | kick | youtube   priority: 1-10 (höher = wichtiger)
+# category: gaming | just_chatting | irl | reaction | sport
+streamers:
+  - name: ExampleTwitch
+    platform: twitch
+    channel: example_twitch
+    language: de
+    category: gaming
+    credit: "🎮 twitch.tv/example_twitch"
+    priority: 9
+  - name: ExampleKick
+    platform: kick
+    channel: example_kick
+    language: de
+    category: irl
+    credit: "📺 kick.com/example_kick"
+    priority: 7
+  - name: ExampleYT
+    platform: youtube
+    channel: "@ExampleChannel"
+    language: en
+    category: reaction
+    credit: "▶️ youtube.com/@ExampleChannel"
+    priority: 6

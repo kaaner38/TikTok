@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+recordings/*
+!recordings/.gitkeep
+output/**/*
+!output/review/.gitkeep
+!output/clips/.gitkeep
